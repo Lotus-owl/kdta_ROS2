@@ -1,15 +1,15 @@
-23-07-24:
-    1차시:
-        VMware 설치;
-        UBUNTU 22.04 설치;
-        github 계정 만들기;
-        terminator 설치;
-        git 설치;
-    2차시:
-        VScode 설치;
-        github 연동;
-    3차시:
-        opencv의 이미지 출력 코드 및 point, size, rect 등 연산자 활용;
+23-07-24
+    1차시
+        VMware 설치
+        UBUNTU 22.04 설치
+        github 계정 만들기
+        terminator 설치
+        git 설치
+    2차시
+        VScode 설치
+        github 연동
+    3차시
+        opencv의 이미지 출력 코드 및 point, size, rect 등 연산자 활용
 
 24-07-24
     1차시
@@ -29,4 +29,5 @@
     1차시
         setMouseCallback을 이용한 마우스 이벤트 코드: 마우스로 lenna 이미지에 그림 그리기
         트랙바 사용: 
+        FileStorage 클래스
 
