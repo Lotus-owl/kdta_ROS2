@@ -36,6 +36,8 @@
     3차시
         예제 정답 풀이
         cvtColor, IMREAD_명령문으로 이미지 색변화 및 밝기 조절
-        histogram: 이미지의 밝기 분포 조사 및 명암비 조절을 통한 선명도 변화 관찰
-         
+        histogram: 이미지의 밝기 분포 도식화 및 명암비 조절을 통한 선명도 변화 관찰
+        영상의 연산자
+        블러링과 샤프닝: GaussianBlur 필터와 alpha, sigma 값 조절, bilateralFilter로 영상의 선명도 조절
+
 
