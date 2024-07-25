@@ -1,15 +1,15 @@
-23-07-24
-    1차시
-        VMware 설치
-        UBUNTU 22.04 설치
-        github 계정 만들기
-        terminator 설치
-        git 설치
-    2차시
-        VScode 설치
-        github 연동
-    3차시
-        opencv의 이미지 출력 코드 및 point, size, rect 등 연산자 활용
+23-07-24:
+    1차시:
+        VMware 설치;
+        UBUNTU 22.04 설치;
+        github 계정 만들기;
+        terminator 설치;
+        git 설치;
+    2차시:
+        VScode 설치;
+        github 연동;
+    3차시:
+        opencv의 이미지 출력 코드 및 point, size, rect 등 연산자 활용;
 
 24-07-24
     1차시
