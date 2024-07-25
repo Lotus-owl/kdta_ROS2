@@ -30,5 +30,6 @@ int main()
     cout<<name<<endl;
     cout<<age<<endl;
     imshow("img", img);
+    waitKey(0);
     return 0;
 }
