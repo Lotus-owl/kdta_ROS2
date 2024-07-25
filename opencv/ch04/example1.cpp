@@ -50,11 +50,7 @@ void onMouse(int event, int x, int y, int flags, void *data)
             break;
 
         case EVENT_MOUSEMOVE:
-            Rect rc;
-            rc.x = x;
-            rc.y = y;
-            rc.width = 50;
-            rc.height = 50;
+            rectangle(ptr->img, Point(x, y), Point(x+50, y+50), ptr->blue, 2);
             imshow("img", ptr->img);
             if(ptr->flag & EVENT_FLAG_LBUTTON){
                 /*FileStorage fs;
