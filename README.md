@@ -40,4 +40,8 @@
         영상의 연산자
         블러링과 샤프닝: GaussianBlur 필터와 alpha, sigma 값 조절, bilateralFilter로 영상의 선명도 조절
 
+26-07-24
+    1차시
+        어파인 변환, 투시 변환으로 영상 회전 및 변환
+
 
