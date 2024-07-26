@@ -19,8 +19,8 @@ int main()
     namedWindow("dst");
     createTrackbar("lower_hue", "dst", &lowerhue, 179);
     createTrackbar("upper_hue", "dst", &upperhue, 179);
-    createTrackbar("lower_saturation", "dst", &lowerSaturation, 179);
-    
+    createTrackbar("lower_saturation", "dst", &lowerSaturation, 255);
+
     imshow("img", img);
 
     while(true)
