@@ -54,3 +54,26 @@
         레이블링과 외곽선 검출(이론)
         템플릿 매칭: 찾고자하는 대상이 되는 작은 크기의 영상-템플릿-과 입력 영상을 비교하여 비슷한 객체를 검출
         코너 검출: 영상 안에서 객체가 뾰족하게 튀어나온 부분-코너, 특징점-을 변별하여 두 영상의 객체가 동일한지 매칭
+
+30-07-24
+    1차시   
+        ROS2 이론 교육: 노드, 토픽, 메시지, 런처, 노드 통신 및 실행
+    2차시
+        ROS2 humble 설치: ros2 humble documentation debian installation
+        환경 설정 파일 (.bashrc) 수정:
+            source /opt/ros/humble/setup.bash -> 터미널 실행 시 ROS 실행
+            source ~/xxx_ws/install/local_setup.bash
+            여러가지 alias(명령어 단축키) 설정
+            export ROS_DOMAIN_ID 설정
+    3차시
+        워크 스페이스 및 패키지 작성: simple_pkg_cpp
+        xml, CMakeLists.txt 수정
+        노드 추가
+            helloworld.cpp : 기본 main 코드
+            helloOpenCV.cpp : OpenCV 사용 코드(외부 라이브러리 적용을 위한 CMakeLists 수정)
+            hello_publisher : Node 및 spin timer 적용
+            hello_publisher_class : Node 상속 클래스 적용
+
+31-07-24
+
+
